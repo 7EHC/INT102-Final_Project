@@ -1,8 +1,8 @@
 # Website's UI example
 
-<h3 text="blue">- Home page</h3>
+<h3>- Home page</h3>
 <div align="center">
-  <img src="./Pics/UI ex/home1.png" width=50% alt="home1">
+  <img src="./Pics/UI ex/home1.png" width=75% alt="home1">
 </div>
 
 
