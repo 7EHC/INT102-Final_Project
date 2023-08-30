@@ -15,7 +15,7 @@
   <img src="./Project/Pics/UI ex/image1.png" width=75% alt="image1">
 </div>
 
-##- Squad Page
+## - Squad Page
 <div align="center">
   <img src="./Project/Pics/UI ex/squad1.png" width=75% alt="squad1">
 </div>
