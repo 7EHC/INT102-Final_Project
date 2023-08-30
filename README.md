@@ -1,9 +1,9 @@
 # Website's UI example
 
 <h3>- Home page</h3>
-<div style="display: flex; justify-content: flex-end;">
-  <img src="./Pics/UI ex/home1.png" style="width: 50%;" alt="home1">
-  <img src="./Pics/UI ex/home3.png" style="width: 50%;" alt="home2"> 
+<div align=center">
+  <img src="./Pics/UI ex/home1.png" width:50% alt="home1">
+  <img src="./Pics/UI ex/home3.png" width:50% alt="home2"> 
 </div>
 
 
