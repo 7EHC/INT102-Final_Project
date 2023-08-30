@@ -2,8 +2,8 @@
 
 <h3>- Home page</h3>
 <div style="display: flex;">
-  <img src="./Pics/UI ex/home1.png" width=50% alt="home1" align=left>
-  <img src="./Pics/UI ex/home3.png" width=50% alt="home2" align=right> 
+  <img src="./Pics/UI ex/home1.png" width=50% alt="home1">
+  <img src="./Pics/UI ex/home3.png" width=50% alt="home2"> 
 </div>
 
 
