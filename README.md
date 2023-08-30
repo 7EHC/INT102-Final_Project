@@ -1,10 +1,10 @@
 # Website's UI example
 <h3>- Home page</h3>
-<p align=right>
-<img src="./Pics/UI ex/home1.png" width=50% alt="home1">
+<!-- <p align=right> -->
+<img src="./Pics/UI ex/home1.png" width=50% alt="home1" align=left>
 <!-- <img src="./Pics/UI ex/home2.png" width=50%> -->
-<img src="./Pics/UI ex/home3.png" width=50% alt="home2"> 
-</p>
+<img src="./Pics/UI ex/home3.png" width=50% alt="home2" align=right> 
+<!-- </p> -->
 <h3>- About page</h3>
 <img src="./Pics/UI ex/about1.png" width=50% alt="about1">
 <img src="./Pics/UI ex/about2.png" width=50% alt="about2">
