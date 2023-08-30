@@ -1,26 +1,26 @@
 # Website's UI example
 
-## - Home page
+## - Home Page
 <div align="center">
   <img src="./Project/Pics/UI ex/home1.png" width=75% alt="home1">
 </div>
 
-<h3>- About page</h3>
+## - About Page
 <div align="center">
   <img src="./Project/Pics/UI ex/about1.png" width=75% alt="about1">
 </div>
 
-<h3>- Pictures page</h3>
+## - Pictures Page
 <div align="center">
   <img src="./Project/Pics/UI ex/image1.png" width=75% alt="image1">
 </div>
 
-<h3>- Squad page</h3>
+##- Squad Page
 <div align="center">
   <img src="./Project/Pics/UI ex/squad1.png" width=75% alt="squad1">
 </div>
 
-<h3>- Player Info page</h3>
+## - Player Info Page
 <div align="center">
   <img src="./Project/Pics/UI ex/info1.png" width=75% alt="info1">
 </div>
