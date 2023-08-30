@@ -10,7 +10,7 @@
   <img src="./Project/Pics/UI ex/about1.png" width=75% alt="about1">
 </div>
 
-<h3>- Images page</h3>
+<h3>- Pictures page</h3>
 <div align="center">
   <img src="./Project/Pics/UI ex/image1.png" width=75% alt="image1">
 </div>
