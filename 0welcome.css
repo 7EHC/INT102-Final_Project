@@ -1,0 +1,31 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(./Pics/cover2.png);
+    background-attachment: fixed;
+    background-position: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ .logo a img {
+     margin-top: -103px;
+     margin-left: 700px;
+ }
+ .logo a img:hover {
+     transform: scale(1.08);
+     transition: transform .9s;
+ }
+ .wel p {
+     padding-left: 60px;
+     margin-top: 80px;
+     color: white;
+     font-weight: bolder;
+     font-size: 100px;
+ }
+ .nem p {
+     float: right;
+     padding-top: 420px;
+     padding-right: 40px;
+     color: white;
+     font-weight: bolder;
+     font-size: 50px;
+ }

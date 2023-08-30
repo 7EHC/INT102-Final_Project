@@ -1,0 +1,2184 @@
+/*ประวัตินักเตะ*/
+.squadinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.squadhead span {
+    font-size: 110px;
+    font-weight: bolder;
+    color: white;
+    background-color: #002683;
+    margin: 0px 0px 0px 450px;
+    text-shadow: 5px 5px darkblue;
+    float: left;
+}
+.squadhead a img {
+    margin-top: -44px;
+    margin-left: 20px;
+    float: left;
+    width: 3%;
+    height: 3%;
+}
+.squadhead a img:hover {
+    transform: scale(0.9);
+    transition: transform .2s;
+}
+.squadinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.squadinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.squadinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.squadinfo img {
+    margin-left: 300px;
+}
+.clippic iframe {
+    float: right;
+    margin: -2220px 50px 0px 0px;
+}
+.clippic hr {
+    float: right;
+    width: 35%;
+    margin-top: -1860px;
+}
+.social hr {
+    float: right;
+    width: 35%;
+    margin-top: -1650px;
+}
+.social p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1830px;
+}
+.social .fb img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1730px;
+    margin-right: 400px;
+}
+.social .fb a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1730px;
+    margin-right: 200px;
+}
+.social .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1775px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot footer {
+    margin-top: 2210px;
+}
+
+/*kepa*/
+.kepainfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.kepainfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.kepainfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.kepainfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.kepainfo img {
+    margin-left: 300px;
+}
+.clippic2 iframe {
+    float: right;
+    margin: -2047px 50px 0px 0px;
+}
+.clippic2 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1687px;
+}
+.social2 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1477px;
+}
+.social2 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1657px;
+}
+.social2 .fb img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1557px;
+    margin-right: 400px;
+}
+.social2 .fb a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social2 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1557px;
+    margin-right: 200px;
+}
+.social2 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social2 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1602px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot2 footer {
+    margin-top: 2037px;
+}
+
+/*bettinelli*/
+.bettinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.bettinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.bettinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.bettinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.bettinfo img {
+    margin-left: 250px;
+}
+.clippic3 iframe {
+    float: right;
+    margin: -1651px 50px 0px 0px;
+}
+.clippic3 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1291px;
+}
+.social3 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1081px;
+}
+.social3 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1261px;
+}
+.social3 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1161px;
+    margin-right: 400px;
+}
+.social3 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social3 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1161px;
+    margin-right: 200px;
+}
+.social3 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social3 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1206px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot3 footer {
+    margin-top: 1641px;
+}
+
+/*alonso*/
+.alonsoinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.alonsoinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.alonsoinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.alonsoinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.alonsoinfo img {
+    margin-left: 300px;
+}
+.clippic4 iframe {
+    float: right;
+    margin: -2082px 50px 0px 0px;
+}
+.clippic4 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1722px;
+}
+.social4 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1512px;
+}
+.social4 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1692px;
+}
+.social4 .fb img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1592px;
+    margin-right: 400px;
+}
+.social4 .fb a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social4 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1592px;
+    margin-right: 200px;
+}
+.social4 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social4 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1637px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot4 footer {
+    margin-top: 2072px;
+}
+
+/*chilwell*/
+.squadhead2 span {
+    font-size: 110px;
+    font-weight: bolder;
+    color: white;
+    background-color: #002683;
+    margin: 0px 0px 0px 600px;
+    text-shadow: 5px 5px darkblue;
+    float: left;
+}
+.squadhead2 a img {
+    margin-top: -44px;
+    margin-left: 20px;
+    float: left;
+    width: 3%;
+    height: 3%;
+}
+.squadhead2 a img:hover {
+    transform: scale(0.9);
+    transition: transform .2s;
+}
+.chilwellinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.chilwellinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.chilwellinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.chilwellinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.chilwellinfo img {
+    margin-left: 300px;
+}
+.clippic5 iframe {
+    float: right;
+    margin: -2242px 50px 0px 0px;
+}
+.clippic5 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1882px;
+}
+.social5 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1672px;
+}
+.social5 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1852px;
+}
+.social5 .fb img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1752px;
+    margin-right: 400px;
+}
+.social5 .fb a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social5 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1752px;
+    margin-right: 200px;
+}
+.social5 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social5 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1797px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot5 footer {
+    margin-top: 2232px;
+}
+
+/*james*/
+.jamesinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.jamesinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.jamesinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.jamesinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.jamesinfo img {
+    margin-left: 300px;
+}
+.clippic6 iframe {
+    float: right;
+    margin: -2782px 50px 0px 0px;
+}
+.clippic6 hr {
+    float: right;
+    width: 35%;
+    margin-top: -2422px;
+}
+.social6 hr {
+    float: right;
+    width: 35%;
+    margin-top: -2212px;
+}
+.social6 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -2392px;
+}
+.social6 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -2292px;
+    margin-right: 400px;
+}
+.social6 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social6 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -2292px;
+    margin-right: 200px;
+}
+.social6 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social6 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -2337px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot6 footer {
+    margin-top: 2772px;
+}
+
+/*sarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr no.7*/
+.sarrinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.sarrinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.sarrinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.sarrinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.sarrinfo img {
+    margin-left: 300px;
+}
+.clippic7 iframe {
+    float: right;
+    margin: -2001px 50px 0px 0px;
+}
+.clippic7 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1641px;
+}
+.social7 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1431px;
+}
+.social7 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1611px;
+}
+.social7 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1511px;
+    margin-right: 400px;
+}
+.social7 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social7 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1511px;
+    margin-right: 200px;
+}
+.social7 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social7 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1556px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot7 footer {
+    margin-top: 1991px;
+}
+
+/*chalobahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh no.8*/
+.chalobahinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.chalobahinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.chalobahinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.chalobahinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.chalobahinfo img {
+    margin-left: 300px;
+}
+.clippic8 iframe {
+    float: right;
+    margin: -1881px 50px 0px 0px;
+}
+.clippic8 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1521px;
+}
+.social8 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1311px;
+}
+.social8 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1491px;
+}
+.social8 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1391px;
+    margin-right: 400px;
+}
+.social8 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social8 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1391px;
+    margin-right: 200px;
+}
+.social8 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social8 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1436px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot8 footer {
+    margin-top: 1871px;
+}
+
+/*christensennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn no.9*/
+.squadhead3 span {
+    font-size: 110px;
+    font-weight: bolder;
+    color: white;
+    background-color: #002683;
+    margin: 0px 0px 0px 300px;
+    text-shadow: 5px 5px darkblue;
+    float: left;
+}
+.squadhead3 a img {
+    margin-top: -44px;
+    margin-left: 20px;
+    float: left;
+    width: 3%;
+    height: 3%;
+}
+.squadhead3 a img:hover {
+    transform: scale(0.9);
+    transition: transform .2s;
+}
+.christenseninfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.christenseninfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.christenseninfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.christenseninfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.christenseninfo img {
+    margin-left: 300px;
+}
+.clippic9 iframe {
+    float: right;
+    margin: -2302px 50px 0px 0px;
+}
+.clippic9 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1942px;
+}
+.social9 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1732px;
+}
+.social9 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1912px;
+}
+.social9 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1812px;
+    margin-right: 400px;
+}
+.social9 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social9 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1812px;
+    margin-right: 200px;
+}
+.social9 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social9 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1857px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot9 footer {
+    margin-top: 2292px;
+}
+
+/*rudigerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr no.10*/
+.rudigerinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.rudigerinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.rudigerinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.rudigerinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.rudigerinfo img {
+    margin-left: 300px;
+}
+.clippic10 iframe {
+    float: right;
+    margin: -2275px 50px 0px 0px;
+}
+.clippic10 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1915px;
+}
+.social10 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1705px;
+}
+.social10 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1885px;
+}
+.social10 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1785px;
+    margin-right: 400px;
+}
+.social10 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social10 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1785px;
+    margin-right: 200px;
+}
+.social10 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social10 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1830px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot10 footer {
+    margin-top: 2265px;
+}
+
+/*azpilicuetaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa no.11*/
+.azpilicuetainfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.azpilicuetainfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.azpilicuetainfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.azpilicuetainfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.azpilicuetainfo img {
+    margin-left: 300px;
+}
+.clippic11 iframe {
+    float: right;
+    margin: -2366px 50px 0px 0px;
+}
+.clippic11 hr {
+    float: right;
+    width: 35%;
+    margin-top: -2006px;
+}
+.social11 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1796px;
+}
+.social11 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1976px;
+}
+.social11 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1876px;
+    margin-right: 400px;
+}
+.social11 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social11 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1876px;
+    margin-right: 200px;
+}
+.social11 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social11 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1921px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot11 footer {
+    margin-top: 2356px;
+}
+
+/*thiagooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo no.12*/
+.thiagoinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.thiagoinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.thiagoinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.thiagoinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.thiagoinfo img {
+    margin-left: 300px;
+}
+.clippic12 iframe {
+    float: right;
+    margin: -2347px 50px 0px 0px;
+}
+.clippic12 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1987px;
+}
+.social12 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1777px;
+}
+.social12 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1957px;
+}
+.social12 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1857px;
+    margin-right: 400px;
+}
+.social12 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social12 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1857px;
+    margin-right: 200px;
+}
+.social12 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social12 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1902px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot12 footer {
+    margin-top: 2337px;
+}
+
+/*saullllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll no.13*/
+.saulinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.saulinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.saulinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.saulinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.saulinfo img {
+    margin-left: 300px;
+}
+.clippic13 iframe {
+    float: right;
+    margin: -1929px 50px 0px 0px;
+}
+.clippic13 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1569px;
+}
+.social13 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1359px;
+}
+.social13 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1539px;
+}
+.social13 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1439px;
+    margin-right: 400px;
+}
+.social13 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social13 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1439px;
+    margin-right: 200px;
+}
+.social13 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social13 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1484px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot13 footer {
+    margin-top: 1919px;
+}
+
+/*barkleyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy no.14*/
+.barkleyinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.barkleyinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.barkleyinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.barkleyinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.barkleyinfo img {
+    margin-left: 300px;
+}
+.clippic14 iframe {
+    float: right;
+    margin: -2213px 50px 0px 0px;
+}
+.clippic14 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1853px;
+}
+.social14 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1643px;
+}
+.social14 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1823px;
+}
+.social14 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1723px;
+    margin-right: 400px;
+}
+.social14 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social14 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1723px;
+    margin-right: 200px;
+}
+.social14 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social14 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1768px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot14 footer {
+    margin-top: 2203px;
+}
+
+/*rlccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc no.15*/
+.rlcinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.rlcinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.rlcinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.rlcinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.rlcinfo img {
+    margin-left: 300px;
+}
+.clippic15 iframe {
+    float: right;
+    margin: -2624px 50px 0px 0px;
+}
+.clippic15 hr {
+    float: right;
+    width: 35%;
+    margin-top: -2264px;
+}
+.social15 hr {
+    float: right;
+    width: 35%;
+    margin-top: -2054px;
+}
+.social15 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -2234px;
+}
+.social15 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -2134px;
+    margin-right: 400px;
+}
+.social15 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social15 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -2134px;
+    margin-right: 200px;
+}
+.social15 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social15 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -2179px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot15 footer {
+    margin-top: 2614px;
+}
+
+/*kovaciccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc no.16*/
+.kovainfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.kovainfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.kovainfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.kovainfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.kovainfo img {
+    margin-left: 300px;
+}
+.clippic16 iframe {
+    float: right;
+    margin: -2028px 50px 0px 0px;
+}
+.clippic16 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1668px;
+}
+.social16 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1458px;
+}
+.social16 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1638px;
+}
+.social16 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1538px;
+    margin-right: 400px;
+}
+.social16 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social16 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1538px;
+    margin-right: 200px;
+}
+.social16 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social16 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1583px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot16 footer {
+    margin-top: 2018px;
+}
+
+/*jorginhooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo no.17*/
+.jorginhoinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.jorginhoinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.jorginhoinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.jorginhoinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.jorginhoinfo img {
+    margin-left: 300px;
+}
+.clippic17 iframe {
+    float: right;
+    margin: -3175px 50px 0px 0px;
+}
+.clippic17 hr {
+    float: right;
+    width: 35%;
+    margin-top: -2815px;
+}
+.social17 hr {
+    float: right;
+    width: 35%;
+    margin-top: -2605px;
+}
+.social17 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -2785px;
+}
+.social17 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -2685px;
+    margin-right: 400px;
+}
+.social17 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social17 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -2685px;
+    margin-right: 200px;
+}
+.social17 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social17 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -2730px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot17 footer {
+    margin-top: 3165px;
+}
+
+/*kanteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee no.18*/
+.kanteinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.kanteinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.kanteinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.kanteinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.kanteinfo img {
+    margin-left: 300px;
+}
+.clippic18 iframe {
+    float: right;
+    margin: -2124px 50px 0px 0px;
+}
+.clippic18 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1764px;
+}
+.social18 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1554px;
+}
+.social18 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1734px;
+}
+.social18 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1634px;
+    margin-right: 400px;
+}
+.social18 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social18 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1634px;
+    margin-right: 200px;
+}
+.social18 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social18 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1679px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot18 footer {
+    margin-top: 2114px;
+}
+
+/*mounttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt no.19*/
+.mountinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.mountinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.mountinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.mountinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.mountinfo img {
+    margin-left: 300px;
+}
+.clippic19 iframe {
+    float: right;
+    margin: -3090px 50px 0px 0px;
+}
+.clippic19 hr {
+    float: right;
+    width: 35%;
+    margin-top: -2730px;
+}
+.social19 hr {
+    float: right;
+    width: 35%;
+    margin-top: -2520px;
+}
+.social19 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -2700px;
+}
+.social19 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -2600px;
+    margin-right: 400px;
+}
+.social19 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social19 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -2600px;
+    margin-right: 200px;
+}
+.social19 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social19 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -2645px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot19 footer {
+    margin-top: 3080px;
+}
+
+/*odoiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii no.20*/
+.odoinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.odoinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.odoinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.odoinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.odoinfo img {
+    margin-left: 300px;
+}
+.clippic20 iframe {
+    float: right;
+    margin: -3052px 50px 0px 0px;
+}
+.clippic20 hr {
+    float: right;
+    width: 35%;
+    margin-top: -2692px;
+}
+.social20 hr {
+    float: right;
+    width: 35%;
+    margin-top: -2482px;
+}
+.social20 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -2662px;
+}
+.social20 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -2562px;
+    margin-right: 400px;
+}
+.social20 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social20 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -2562px;
+    margin-right: 200px;
+}
+.social20 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social20 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -2607px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot20 footer {
+    margin-top: 3042px;
+}
+
+/*pulisicccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc no.21*/
+.pulisicinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.pulisicinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.pulisicinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.pulisicinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.pulisicinfo img {
+    margin-left: 300px;
+}
+.clippic21 iframe {
+    float: right;
+    margin: -2161px 50px 0px 0px;
+}
+.clippic21 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1801px;
+}
+.social21 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1591px;
+}
+.social21 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1771px;
+}
+.social21 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1671px;
+    margin-right: 400px;
+}
+.social21 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social21 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1671px;
+    margin-right: 200px;
+}
+.social21 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social21 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1716px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot21 footer {
+    margin-top: 2151px;
+}
+
+/*ziyechhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh no.22*/
+.ziyechinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.ziyechinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.ziyechinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.ziyechinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.ziyechinfo img {
+    margin-left: 300px;
+}
+.clippic22 iframe {
+    float: right;
+    margin: -2014px 50px 0px 0px;
+}
+.clippic22 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1654px;
+}
+.social22 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1444px;
+}
+.social22 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1624px;
+}
+.social22 .fb img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1524px;
+    margin-right: 400px;
+}
+.social22 .fb a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social22 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1524px;
+    margin-right: 200px;
+}
+.social22 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social22 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1569px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot22 footer {
+    margin-top: 2004px;
+}
+
+/*havertzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz no.23*/
+.havertzinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.havertzinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.havertzinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.havertzinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.havertzinfo img {
+    margin-left: 300px;
+}
+.clippic23 iframe {
+    float: right;
+    margin: -2175px 50px 0px 0px;
+}
+.clippic23 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1815px;
+}
+.social23 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1605px;
+}
+.social23 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1785px;
+}
+.social23 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1685px;
+    margin-right: 400px;
+}
+.social23 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social23 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1685px;
+    margin-right: 200px;
+}
+.social23 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social23 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1730px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot23 footer {
+    margin-top: 2165px;
+}
+
+/*wernerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr no.24*/
+.wernerinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.wernerinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.wernerinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.wernerinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.wernerinfo img {
+    margin-left: 300px;
+}
+.clippic24 iframe {
+    float: right;
+    margin: -2203px 50px 0px 0px;
+}
+.clippic24 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1843px;
+}
+.social24 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1633px;
+}
+.social24 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1813px;
+}
+.social24 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1713px;
+    margin-right: 400px;
+}
+.social24 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social24 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1713px;
+    margin-right: 200px;
+}
+.social24 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social24 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1758px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot24 footer {
+    margin-top: 2193px;
+}
+
+/*lukakuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu no.25*/
+.lukakuinfo {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 35%;
+    padding-bottom: 10px ;
+    float: left;
+}
+.lukakuinfo h2 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.lukakuinfo h3 {
+    color: #002683;
+    padding-left: 10px;
+    font-family: Prompt;
+}
+.lukakuinfo p {
+    color: #002683;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Prompt;
+}
+.lukakuinfo img {
+    margin-left: 300px;
+}
+.clippic25 iframe {
+    float: right;
+    margin: -1883px 50px 0px 0px;
+}
+.clippic25 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1523px;
+}
+.social25 hr {
+    float: right;
+    width: 35%;
+    margin-top: -1313px;
+}
+.social25 p {
+    float: right;
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    font-weight: normal;
+    padding-right: 155px;
+    margin-top: -1493px;
+}
+.social25 .tw img {
+    float: right;
+    width: 55px;
+    height: 50px;
+    margin-top: -1393px;
+    margin-right: 400px;
+}
+.social25 .tw a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social25 .ig img {
+    float: right;
+    width: 55px;
+    height: 55px;
+    margin-top: -1393px;
+    margin-right: 200px;
+}
+.social25 .ig a img:hover {
+    transform: scale(1.05);
+    transition: transform .3s;
+}
+.social25 .line {
+    color: white;
+    font-weight: lighter;
+    float: right;
+    margin: -1438px 315px 0px 0px;
+    font-size: 90px;
+}
+.foot25 footer {
+    margin-top: 1873px;
+}

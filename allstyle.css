@@ -1,0 +1,1002 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #002683;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ /*ส่วนท้ายของหน้า*/
+footer {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-top: 50px;
+}
+/*BAR*/
+/*โลโก้หน้าแรก*/
+.bar{
+    background-color: #002683;
+}
+.bar img {
+    margin-left: 100px;
+    margin-top: 1em;
+}
+
+/*ชื่อสโมสรหน้าแรก*/
+.namebar {
+    font-size: 110px;
+    font-weight: bolder;
+    color: white;
+    float:right;
+    padding-right: 100px;
+    padding-top: 25px;
+    padding-left: 0px;
+    margin: 0px;
+    text-shadow: 5px 5px darkblue ;
+}
+
+/*3 ตัวเลือกหน้าแรก*/
+.bar ul.menu {
+     list-style: none;
+     float:right;
+     padding-right: 30px;
+}
+.bar ul.menu li {
+    float: left;
+    margin-right: 110px;
+    font-size: 35px;
+    padding-top: 70px;
+}
+.bar ul.menu li a:link {
+    text-decoration: none;
+    color: white;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 20px;
+    transition: all 0.3s ease;
+}
+.bar ul.menu li a:hover {
+    border-bottom: 2px solid #fff;
+    padding-bottom: 0px;
+    opacity: 70%;  
+}
+.bar ul.menu li a:visited {
+    color:white;
+}
+
+/*สปอน 3 เจ้าบนหน้าแรก*/
+.picbar {
+    text-align:center;
+    background-color:darkblue;
+}
+.picbar img {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.picbar img:hover {
+    transition: transform .3s;
+    transform: scale(1.1);
+}
+
+/*ตัวหนังสือเลื่อน*/
+.slide {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #002683;
+}
+.slide2 {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 25px;
+    padding: 3.5px;
+    font-weight: bold;
+    color: #002683;
+}
+.slide3 {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 25px;
+    padding: 3.5px;
+    font-weight: bold;
+    color: #002683;
+}
+
+/*1HOME*/ 
+/*รูปปก*/
+.cover {
+    margin: 15px;
+}
+.cover img {
+    border-radius: 4px;
+}
+.cover img:hover {
+    transition: transform .5s;
+    transform: scale(0.995);
+}
+/*คลิป*/
+.video {
+    text-align: center;
+    margin-right: 510px;
+}
+.video2 iframe{
+    margin-top: -35px;
+    margin-right: 500px;
+    margin-left: 70px;
+    margin-bottom: 120px;
+}
+/*arrow*/
+.gif img {
+    padding-left: 30px;
+    float: left;
+}
+
+/*เพจ*/
+.page {
+    float: right;
+    margin-top: -505px;
+    margin-right: 15px;
+}
+
+.latest {
+    margin-top: -65px;
+    margin-left: 0px;
+}
+.latest p {
+    font-size: 80px;
+    font-weight: normal;
+    padding-left: 20px;
+    color:white;
+    text-shadow: 5px 5px darkblue ;
+}
+.latest hr {
+    float: right;
+    margin-top: -127px;
+    width: 35%;
+}
+.allvi {
+    background-image: url(./Pics/uefa.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: -125px;
+    background-attachment: fixed;
+}
+.footfirst footer {
+    margin-top: -60px;
+}
+
+/*2ABOUT*/
+/*เนื้อหา*/
+.conbout {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    padding-bottom: 350px;
+    padding-top: 10px;
+}
+.conbout h1 {
+    color: #002683;
+    text-align: center;
+    margin-top: -30px;
+}
+.conbout p {
+    padding-left: 57%;
+    padding-right: 10px;
+    color: #002683;
+    font-family: Prompt;
+}
+.clickhere {
+    font-size: 20px;
+    padding-left: 250px;
+    margin-top: -50px;
+    float: left;
+}
+.clickhere a {
+    text-decoration: none;
+    color: #002683;
+}
+.clickhere a:visited {
+    color: #002683;
+}
+hr {
+    width: 600px;
+}
+/*รูปเลื่อน*/
+.slidepic {
+    width: 1000px;
+    height: 500px;
+    margin-left: 25px;
+    margin-right: auto;
+    margin-top: 0px;
+    box-shadow: 0px 0px 20px 3px rgb(151, 151, 150);
+    overflow: hidden;
+    border-radius: 4px;
+    float: left;
+}
+.slidepic figure img {
+    width: 20%;
+    height: 500px;
+    float: left;
+    margin-top: 0px;
+}
+.slidepic figure {
+    position: relative;
+    width: 500%;
+    margin: 0px;
+    left: 0px;
+    animation: thebridge 20s infinite linear;
+}
+@keyframes thebridge {
+    0%{left: 0%;}
+    15%{left: 0%;}
+    20%{left: -100%;}
+    35%{left: -100%;}
+    40%{left: -200%;}
+    60%{left: -200%;}
+    65%{left: -300%;}
+    80%{left: -300%;}
+    85%{left: -400%;}
+    100%{left: -400%;}
+}
+.midline {
+    width: 90%;
+}
+
+/*เนื้อหา 2*/
+.cobham p {
+    padding-left: 30px;
+    padding-right: 57%;
+    margin-top: -470px;
+    text-align: justify;
+    color: #002683;
+    float: left;
+}
+.cobham2 p {
+    padding-left: 30px;
+    padding-right: 57%;
+    margin-top: -240px;
+    text-align: justify;
+    color: #002683;
+    float: left;
+}
+.cobham hr {
+    margin-top: 275px;
+    margin-bottom: -5px;
+}
+
+/*รูปเลื่อน2*/
+.slidepic2 {
+    width: 1000px;
+    height: 500px;
+    margin-left: 0px;
+    margin-right: 25px;
+    margin-top: 0px;
+    box-shadow: 0px 0px 20px 3px rgb(151, 151, 150);
+    overflow: hidden;
+    border-radius: 4px;
+    float: right;
+}
+.slidepic2 figure img {
+    width: 20%;
+    height: 500px;
+    float: left;
+    margin-top: 0px;
+}
+.slidepic2 figure {
+    position: relative;
+    width: 500%;
+    margin: 0px;
+    left: 0px;
+    animation: thebridge2 20s infinite linear;
+}
+@keyframes thebridge2 {
+    0%{left: 0%;}
+    15%{left: 0%;}
+    20%{left: -100%;}
+    35%{left: -100%;}
+    40%{left: -200%;}
+    60%{left: -200%;}
+    65%{left: -300%;}
+    80%{left: -300%;}
+    85%{left: -400%;}
+    100%{left: -400%;}
+}
+
+/*GALLERY1*/
+ /*เนื้อหา*/
+ .congallery {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    padding-bottom: 1px;
+    text-align: center;
+    color: #002683;
+    font-family: Prompt;
+}
+.congallery a {
+    font-size: 15px;
+    text-decoration: none;
+    color: #002683;
+}
+.congallery a:visited {
+    color: #002683;
+}
+.congallery a:active {
+    color: white;
+}
+/*รูปเลนแรก*/
+.congallery1 {
+    float: left;
+}
+.congallery1 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 0px 0px 15px;
+    border-radius: 4px;
+}
+.congallery1 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery1 p {
+    text-align: center;
+}
+.congallery1 hr {
+    width: 50%;
+}
+/*รูปเลนกลาง*/
+.congallery2 {
+    float: left;
+}
+.congallery2 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 0px 0px 20px;
+    border-radius: 4px;
+}
+.congallery2 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery2 p {
+    text-align: center;
+}
+.congallery2 hr {
+    width: 50%;
+}
+/*รูปเลนสาม*/
+.congallery3 {
+    float: right;
+}
+.congallery3 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 15px 0px 0px;
+    border-radius: 4px;
+}
+.congallery3 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery3 p {
+    text-align: center;
+}
+.congallery3 hr {
+    width: 50%;
+}
+/*รูปเลนแรก*/
+.congallery4 {
+    float: left;
+}
+.congallery4 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 0px 0px 15px;
+    border-radius: 4px;
+}
+.congallery4 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery4 p {
+    text-align: center;
+}
+.congallery4 hr {
+    width: 50%;
+}
+/*รูปเลนกลาง*/
+.congallery5 {
+    float: left;
+}
+.congallery5 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 0px 0px 20px;
+    border-radius: 4px;
+}
+.congallery5 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery5 p {
+    text-align: center;
+}
+.congallery5 hr {
+    width: 50%;
+}
+/*รูปเลนสาม*/
+.congallery6 {
+    float: right;
+}
+.congallery6 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 15px 0px 0px;
+    border-radius: 4px;
+}
+.congallery6 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery6 p {
+    text-align: center;
+}
+.congallery6 hr {
+    width: 50%;
+}
+/*รูปเลนแรก*/
+.congallery7 {
+    float: left;
+}
+.congallery7 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 0px 0px 15px;
+    border-radius: 4px;
+}
+.congallery7 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery7 p {
+    text-align: center;
+}
+.congallery7 hr {
+    width: 50%;
+}
+/*รูปเลนกลาง*/
+.congallery8 {
+    float: left;
+}
+.congallery8 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 0px 0px 20px;
+    border-radius: 4px;
+}
+.congallery8 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery8 p {
+    text-align: center;
+}
+.congallery8 hr {
+    width: 50%;
+}
+/*รูปเลนสาม*/
+.congallery9 {
+    float: right;
+}
+.congallery9 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 15px 0px 0px;
+    border-radius: 4px;
+}
+.congallery9 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery9 p {
+    text-align: center;
+}
+.congallery9 hr {
+    width: 50%;
+}
+/*รูปเลนแรก*/
+.congallery10 {
+    float: left;
+}
+.congallery10 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 0px 0px 15px;
+    border-radius: 4px;
+}
+.congallery10 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery10 p {
+    text-align: center;
+}
+.congallery10 hr {
+    width: 50%;
+}
+/*รูปเลนกลาง*/
+.congallery11 {
+    float: left;
+}
+.congallery11 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 0px 0px 20px;
+    border-radius: 4px;
+}
+.congallery11 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery11 p {
+    text-align: center;
+}
+.congallery11 hr {
+    width: 50%;
+}
+/*รูปเลนสาม*/
+.congallery12 {
+    float: right;
+}
+.congallery12 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 15px 0px 0px;
+    border-radius: 4px;
+}
+.congallery12 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery12 p {
+    text-align: center;
+}
+.congallery12 hr {
+    width: 50%;
+}
+
+/*GALLERY2*/
+ /*เนื้อหา*/
+ .congalleryp2 {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    padding-bottom: 1px;
+    text-align: center;
+    color: #002683;
+    font-family: Prompt;
+}
+.congalleryp2 a {
+    font-size: 15px;
+    text-decoration: none;
+    color: #002683;
+}
+.congalleryp2 a:visited {
+    color: #002683;
+}
+.congalleryp2 a:active {
+    color: white;
+}
+/*รูปเลนแรก*/
+.congallery13 {
+    float: left;
+}
+.congallery13 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 0px 0px 15px;
+    border-radius: 4px;
+}
+.congallery13 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery13 p {
+    text-align: center;
+}
+.congallery13 hr {
+    width: 50%;
+}
+/*รูปเลนกลาง*/
+.congallery14 {
+    float: left;
+}
+.congallery14 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 0px 0px 20px;
+    border-radius: 4px;
+}
+.congallery14 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery14 p {
+    text-align: center;
+}
+.congallery14 hr {
+    width: 50%;
+}
+/*รูปเลนสาม*/
+.congallery15 {
+    float: right;
+}
+.congallery15 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 15px 0px 0px;
+    border-radius: 4px;
+}
+.congallery15 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery15 p {
+    text-align: center;
+}
+.congallery15 hr {
+    width: 50%;
+}
+/*รูปเลนแรก*/
+.congallery16 {
+    float: left;
+}
+.congallery16 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 0px 0px 15px;
+    border-radius: 4px;
+}
+.congallery16 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery16 p {
+    text-align: center;
+}
+.congallery16 hr {
+    width: 50%;
+}
+/*รูปเลนกลาง*/
+.congallery17 {
+    float: left;
+}
+.congallery17 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 0px 0px 20px;
+    border-radius: 4px;
+}
+.congallery17 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery17 p {
+    text-align: center;
+}
+.congallery17 hr {
+    width: 50%;
+}
+/*รูปเลนสาม*/
+.congallery18 {
+    float: right;
+}
+.congallery18 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 15px 0px 0px;
+    border-radius: 4px;
+}
+.congallery18 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery18 p {
+    text-align: center;
+}
+.congallery18 hr {
+    width: 50%;
+}
+/*รูปเลนแรก*/
+.congallery19 {
+    float: left;
+}
+.congallery19 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 0px 0px 15px;
+    border-radius: 4px;
+}
+.congallery19 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery19 p {
+    text-align: center;
+}
+.congallery19 hr {
+    width: 50%;
+}
+/*รูปเลนกลาง*/
+.congallery20 {
+    float: left;
+}
+.congallery20 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 0px 0px 20px;
+    border-radius: 4px;
+}
+.congallery20 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery20 p {
+    text-align: center;
+}
+.congallery20 hr {
+    width: 50%;
+}
+/*รูปเลนสาม*/
+.congallery21 {
+    float: right;
+}
+.congallery21 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 15px 0px 0px;
+    border-radius: 4px;
+}
+.congallery21 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery21 p {
+    text-align: center;
+}
+.congallery21 hr {
+    width: 50%;
+}
+/*รูปเลนแรก*/
+.congallery22 {
+    float: left;
+}
+.congallery22 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 0px 0px 15px;
+    border-radius: 4px;
+}
+.congallery22 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery22 p {
+    text-align: center;
+}
+.congallery22 hr {
+    width: 50%;
+}
+/*รูปเลนกลาง*/
+.congallery23 {
+    float: left;
+}
+.congallery23 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 0px 0px 20px;
+    border-radius: 4px;
+}
+.congallery23 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery23 p {
+    text-align: center;
+}
+.congallery23 hr {
+    width: 50%;
+}
+/*รูปเลนสาม*/
+.congallery24 {
+    float: right;
+}
+.congallery24 img {
+    width: 600px;
+    height: 300px;
+    margin: 15px 15px 0px 0px;
+    border-radius: 4px;
+}
+.congallery24 img:hover {
+    transform: scale(1.01);
+    transition: transform .3s;
+}
+.congallery24 p {
+    text-align: center;
+}
+.congallery24 hr {
+    width: 50%;
+}
+
+/*squadpage*/
+.conquad {
+    background-color: white;
+    margin: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    padding-top: 5px;
+}
+.conquad p {
+    font-size: 50px;
+    font-weight: bold;
+    float: left;
+    padding-left: 35px;
+    padding-top: 10px;
+    margin: 0px;
+    color: #002683;
+}
+.conquad hr {
+    float: right;
+    width: 79%;
+    margin-top: 45px;
+}
+.gk {
+    text-align: center;
+}
+.df {
+    text-align: center;
+}
+.mf {
+    text-align: center;
+}
+.fw {
+    text-align: center;
+}
+.gk img {
+    border-radius: 300px;
+}
+.df img {
+    border-radius: 300px;
+}
+.mf img {
+    border-radius: 300px;
+}
+.fw img {
+    border-radius: 300px;
+}
+
+.snip {
+    background-color: transparent;
+    color: #fff;
+    display: inline-block;
+    font-size: 25px;
+    margin: 8px;
+    max-width: 500px;
+    min-width: 230px;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+.snip * {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: all 0.45s ease;
+    transition: all 0.45s ease;
+}
+
+.snip:before,
+.snip:after {
+    background-color: rgba(0, 38, 131, 0.5);
+    border-radius: 300px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    content: '';
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    z-index: 1;
+    opacity: 0;
+    width: 100%;
+}
+
+.snip:before {
+    -webkit-transform: scale(0.7);
+    transform: scale(0.7);
+}
+
+.snip:after {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+
+.snip img {
+    vertical-align: top;
+    max-width: 100%;
+    backface-visibility: hidden;
+}
+
+.snip figcaption {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    align-items: center;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 1.1em;
+    opacity: 0;
+    z-index: 2;
+    -webkit-transition-delay: 0s;
+    transition-delay: 0s;
+}
+
+.snip h3 {
+    font-size: 150px;
+    font-weight: lighter;
+    padding-bottom: 150px;
+    letter-spacing: 1px;
+    margin: 0;
+    text-transform: uppercase;
+    color: white;
+}
+
+.snip span {
+    display: block;
+    font-size: 40px;
+    font-weight: lighter;
+    color: white;
+}
+
+.snip a {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 3;
+}
+
+.snip:hover > img,
+.snip.hover > img {
+    opacity: 0.4;
+}
+
+.snip:hover:before,
+.snip.hover:before,
+.snip:hover:after,
+.snip.hover:after {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+}
+
+.snip:hover figcaption,
+.snip.hover figcaption {
+    opacity: 1;
+    -webkit-transition-delay: 0.1s;
+    transition-delay: 0.1s;
+}
