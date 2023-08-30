@@ -1,3 +1,3 @@
 # Website's UI example
-Home:
+<h2>Home:/h2><br>
 <img src="./Pics/UI ex/home1.png">
