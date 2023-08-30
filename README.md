@@ -12,3 +12,7 @@
 <h3>- Squad page</h3>
 <img src="./Pics/UI ex/squad1.png" width=50%>
 <img src="./Pics/UI ex/squad2.png" width=50%>
+<h3>- Infomation page</h3>
+<img src="./Pics/UI ex/info1.png" width=50%>
+<img src="./Pics/UI ex/info2.png" width=50%>
+
