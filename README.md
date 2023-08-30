@@ -1,6 +1,6 @@
 # Website's UI example
 
-##- Home page
+## - Home page
 <div align="center">
   <img src="./Project/Pics/UI ex/home1.png" width=75% alt="home1">
 </div>
