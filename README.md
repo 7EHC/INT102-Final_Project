@@ -1,9 +1,11 @@
 # Website's UI example
 
 <h3>- Home page</h3>
-<!-- <img src="./Pics/UI ex/home1.png" width=50% alt="home1" align=left> -->
-<!-- <img src="./Pics/UI ex/home3.png" width=50% alt="home2" align=right>  -->
-![Home1](./Pics/UI ex/home1.png) ![Home2](./Pics/UI ex/home2.png)
+<div style="display: flex; justify-content: flex-end;">
+<img src="./Pics/UI ex/home1.png" width=50% alt="home1" align=left>
+<img src="./Pics/UI ex/home3.png" width=50% alt="home2" align=right> 
+</div>
+
 <h3>- About page</h3>
 <img src="./Pics/UI ex/about1.png" width=50% alt="about1">
 <img src="./Pics/UI ex/about2.png" width=50% alt="about2">
